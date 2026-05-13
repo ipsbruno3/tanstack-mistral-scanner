@@ -67,3 +67,9 @@ Observed behaviors associated with this campaign may include:
 ## Recommendation
 
 Update dependencies immediately, audit all developer systems, and verify the integrity of your supply chain and CI infrastructure.
+
+
+
+### @voicproducoes
+
+Cara, você tem um emprego bom? Em algum banco ou fintech né? Acorda pra vida. Ninguem ganhou nada com isso. "RM RF ~" em diretório alheio é destruir vidas. Milhões. Espero que entenda isso e melhore. Contrata um bom advopgado também, vai precisar. Fez merda na brincadeira e saiu do controle, as consequências vem agora. Não vou julgar ou me envolver. Mas ppensa ai. Valeu a pena?
